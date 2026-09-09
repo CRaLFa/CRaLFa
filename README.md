@@ -9,16 +9,16 @@ I love [Go](https://go.dev/), [TypeScript](https://www.typescriptlang.org/) and 
 - Vim plugin author (vim9-img-search)
 - WSL2 & PowerShell user
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CRaLFa&hide=html,css&layout=compact)
-![CRaLFa's GitHub stats](https://github-readme-stats.vercel.app/api?username=CRaLFa&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CRaLFa&hide=html,css&layout=compact)
+![CRaLFa's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=CRaLFa&show_icons=true&count_private=true)
 
 ## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/person-24.svg" width=19/> Status
 
-[![](https://raw.githubusercontent.com/CRaLFa/CRaLFa/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/CRaLFa/CRaLFa/main/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/CRaLFa/CRaLFa/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/CRaLFa/CRaLFa/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/CRaLFa/CRaLFa/main/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/dependabot-16.svg" width=19 /> Bots
 
