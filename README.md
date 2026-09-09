@@ -9,16 +9,16 @@ I love [Go](https://go.dev/), [TypeScript](https://www.typescriptlang.org/) and 
 - Vim plugin author (vim9-img-search)
 - WSL2 & PowerShell user
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CRaLFa&hide=html,css&layout=compact)
-![CRaLFa's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=CRaLFa&show_icons=true&count_private=true)
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CRaLFa&hide=html,css&layout=compact&theme=github_dark" /><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CRaLFa&hide=html,css&layout=compact" alt="Top Langs" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=CRaLFa&show_icons=true&count_private=true&theme=github_dark" /><img src="https://github-readme-stats-fast.vercel.app/api?username=CRaLFa&show_icons=true&count_private=true" alt="CRaLFa's GitHub stats" /></picture>
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="icons/person-24-dark.svg" /><img src="icons/person-24.svg" width=19 /></picture> Status
 
-[![](profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><picture><source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/0-profile-details.svg" /><img src="profile-summary-card-output/default/0-profile-details.svg" /></picture></a>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><picture><source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/3-stats.svg" /><img src="profile-summary-card-output/default/3-stats.svg" /></picture></a>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><picture><source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/1-repos-per-language.svg" /><img src="profile-summary-card-output/default/1-repos-per-language.svg" /></picture></a>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><picture><source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/2-most-commit-language.svg" /><img src="profile-summary-card-output/default/2-most-commit-language.svg" /></picture></a>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><picture><source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/4-productive-time.svg" /><img src="profile-summary-card-output/default/4-productive-time.svg" /></picture></a>
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="icons/browser-16-dark.svg" /><img src="icons/browser-16.svg" width=19 /></picture> Web apps
 
