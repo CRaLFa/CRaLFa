@@ -1,4 +1,4 @@
-### Hey 👋, I'm CRaLFa
+### Hey👋, I'm CRaLFa
 
 [![GitHub Followers](https://img.shields.io/github/followers/CRaLFa?label=Follow&style=social)](https://github.com/CRaLFa)
 
