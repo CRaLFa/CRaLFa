@@ -1,4 +1,15 @@
-### Hey 👋, I'm CRaLFa
+### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/browser-16.svg" width=19 /> Web apps
+
+<a href="https://github.com/CRaLFa/google-maps-restaurant-list-finder"><img src="https://gh-card.dev/repos/CRaLFa/google-maps-restaurant-list-finder.svg" width=420></a>
+<a href="https://github.com/CRaLFa/image-manipulation"><img src="https://gh-card.dev/repos/CRaLFa/image-manipulation.svg" width=420></a>
+
+<a href="https://github.com/CRaLFa/nanikiru"><img src="https://gh-card.dev/repos/CRaLFa/nanikiru.svg" width=420></a>
+<a href="https://github.com/CRaLFa/rw-swarm-post"><img src="https://gh-card.dev/repos/CRaLFa/rw-swarm-post.svg" width=420></a>
+
+<a href="https://github.com/CRaLFa/twi-fav"><img src="https://gh-card.dev/repos/CRaLFa/twi-fav.svg" width=420></a>
+<a href="https://github.com/CRaLFa/stamp-downloader"><img src="https://gh-card.dev/repos/CRaLFa/stamp-downloader.svg" width=420></a>
+
+## Hey 👋, I'm CRaLFa
 
 [![GitHub Followers](https://img.shields.io/github/followers/CRaLFa?label=Follow&style=social)](https://github.com/CRaLFa)
 
@@ -29,17 +40,6 @@ I love [Go](https://go.dev/), [TypeScript](https://www.typescriptlang.org/) and 
 <a href="https://github.com/CRaLFa/nikkei-bot"><img src="https://gh-card.dev/repos/CRaLFa/nikkei-bot.svg" width=420></a>
 
 <a href="https://github.com/CRaLFa/pr-times-bot"><img src="https://gh-card.dev/repos/CRaLFa/pr-times-bot.svg" width=420></a>
-
-## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/browser-16.svg" width=19 /> Web apps
-
-<a href="https://github.com/CRaLFa/google-maps-restaurant-list-finder"><img src="https://gh-card.dev/repos/CRaLFa/google-maps-restaurant-list-finder.svg" width=420></a>
-<a href="https://github.com/CRaLFa/image-manipulation"><img src="https://gh-card.dev/repos/CRaLFa/image-manipulation.svg" width=420></a>
-
-<a href="https://github.com/CRaLFa/nanikiru"><img src="https://gh-card.dev/repos/CRaLFa/nanikiru.svg" width=420></a>
-<a href="https://github.com/CRaLFa/rw-swarm-post"><img src="https://gh-card.dev/repos/CRaLFa/rw-swarm-post.svg" width=420></a>
-
-<a href="https://github.com/CRaLFa/twi-fav"><img src="https://gh-card.dev/repos/CRaLFa/twi-fav.svg" width=420></a>
-<a href="https://github.com/CRaLFa/stamp-downloader"><img src="https://gh-card.dev/repos/CRaLFa/stamp-downloader.svg" width=420></a>
 
 ## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/terminal-16.svg" width=19 /> CLI
 
