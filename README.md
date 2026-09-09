@@ -9,7 +9,7 @@ I love [Go](https://go.dev/), [TypeScript](https://www.typescriptlang.org/) and 
 - Vim plugin author (vim9-img-search)
 - WSL2 & PowerShell user
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CRaLFa&hide=html,css&layout=compact&theme=github_dark" /><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CRaLFa&hide=html,css&layout=compact" alt="Top Langs" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CRaLFa&hide=html%2Ccss&layout=compact&theme=github_dark" /><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CRaLFa&hide=html%2Ccss&layout=compact" alt="Top Langs" /></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=CRaLFa&show_icons=true&count_private=true&theme=github_dark" /><img src="https://github-readme-stats-fast.vercel.app/api?username=CRaLFa&show_icons=true&count_private=true" alt="CRaLFa's GitHub stats" /></picture>
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="icons/person-24-dark.svg" /><img src="icons/person-24.svg" width=19 /></picture> Status
