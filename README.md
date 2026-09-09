@@ -33,9 +33,9 @@ I love [Go](https://go.dev/), [TypeScript](https://www.typescriptlang.org/) and 
 ## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/browser-16.svg" width=19 /> Web apps
 
 <a href="https://github.com/CRaLFa/google-maps-restaurant-list-finder"><img src="https://gh-card.dev/repos/CRaLFa/google-maps-restaurant-list-finder.svg" width=420></a>
-<a href="https://github.com/CRaLFa/nanikiru"><img src="https://gh-card.dev/repos/CRaLFa/nanikiru.svg" width=420></a>
-
 <a href="https://github.com/CRaLFa/image-manipulation"><img src="https://gh-card.dev/repos/CRaLFa/image-manipulation.svg" width=420></a>
+
+<a href="https://github.com/CRaLFa/nanikiru"><img src="https://gh-card.dev/repos/CRaLFa/nanikiru.svg" width=420></a>
 <a href="https://github.com/CRaLFa/rw-swarm-post"><img src="https://gh-card.dev/repos/CRaLFa/rw-swarm-post.svg" width=420></a>
 
 <a href="https://github.com/CRaLFa/twi-fav"><img src="https://gh-card.dev/repos/CRaLFa/twi-fav.svg" width=420></a>
