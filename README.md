@@ -22,48 +22,48 @@ I love [Go](https://go.dev/), [TypeScript](https://www.typescriptlang.org/) and 
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="icons/browser-16-dark.svg" /><img src="icons/browser-16.svg" width=19 /></picture> Web apps
 
-<a href="https://github.com/CRaLFa/google-maps-restaurant-list-finder"><img src="https://gh-card.dev/repos/CRaLFa/google-maps-restaurant-list-finder.svg" width=420></a>
-<a href="https://github.com/CRaLFa/image-manipulation"><img src="https://gh-card.dev/repos/CRaLFa/image-manipulation.svg" width=420></a>
+<a href="https://github.com/CRaLFa/google-maps-restaurant-list-finder"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=CRaLFa&repo=google-maps-restaurant-list-finder&theme=github_dark" /><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=CRaLFa&repo=google-maps-restaurant-list-finder" width=420 /></picture></a>
+<a href="https://github.com/CRaLFa/image-manipulation"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=CRaLFa&repo=image-manipulation&theme=github_dark" /><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=CRaLFa&repo=image-manipulation" width=420 /></picture></a>
 
-<a href="https://github.com/CRaLFa/nanikiru"><img src="https://gh-card.dev/repos/CRaLFa/nanikiru.svg" width=420></a>
-<a href="https://github.com/CRaLFa/rw-swarm-post"><img src="https://gh-card.dev/repos/CRaLFa/rw-swarm-post.svg" width=420></a>
+<a href="https://github.com/CRaLFa/nanikiru"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=CRaLFa&repo=nanikiru&theme=github_dark" /><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=CRaLFa&repo=nanikiru" width=420 /></picture></a>
+<a href="https://github.com/CRaLFa/rw-swarm-post"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=CRaLFa&repo=rw-swarm-post&theme=github_dark" /><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=CRaLFa&repo=rw-swarm-post" width=420 /></picture></a>
 
-<a href="https://github.com/CRaLFa/twi-fav"><img src="https://gh-card.dev/repos/CRaLFa/twi-fav.svg" width=420></a>
-<a href="https://github.com/CRaLFa/stamp-downloader"><img src="https://gh-card.dev/repos/CRaLFa/stamp-downloader.svg" width=420></a>
+<a href="https://github.com/CRaLFa/twi-fav"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=CRaLFa&repo=twi-fav&theme=github_dark" /><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=CRaLFa&repo=twi-fav" width=420 /></picture></a>
+<a href="https://github.com/CRaLFa/stamp-downloader"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=CRaLFa&repo=stamp-downloader&theme=github_dark" /><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=CRaLFa&repo=stamp-downloader" width=420 /></picture></a>
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="icons/dependabot-16-dark.svg" /><img src="icons/dependabot-16.svg" width=19 /></picture> Bots
 
-<a href="https://github.com/CRaLFa/slack-gemini-bot"><img src="https://gh-card.dev/repos/CRaLFa/slack-gemini-bot.svg" width=420></a>
-<a href="https://github.com/CRaLFa/gc-notifier"><img src="https://gh-card.dev/repos/CRaLFa/gc-notifier.svg" width=420></a>
+<a href="https://github.com/CRaLFa/slack-gemini-bot"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=CRaLFa&repo=slack-gemini-bot&theme=github_dark" /><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=CRaLFa&repo=slack-gemini-bot" width=420 /></picture></a>
+<a href="https://github.com/CRaLFa/gc-notifier"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=CRaLFa&repo=gc-notifier&theme=github_dark" /><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=CRaLFa&repo=gc-notifier" width=420 /></picture></a>
 
-<a href="https://github.com/CRaLFa/tdnet-bot"><img src="https://gh-card.dev/repos/CRaLFa/tdnet-bot.svg" width=420></a>
-<a href="https://github.com/CRaLFa/nikkei-bot"><img src="https://gh-card.dev/repos/CRaLFa/nikkei-bot.svg" width=420></a>
+<a href="https://github.com/CRaLFa/tdnet-bot"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=CRaLFa&repo=tdnet-bot&theme=github_dark" /><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=CRaLFa&repo=tdnet-bot" width=420 /></picture></a>
+<a href="https://github.com/CRaLFa/nikkei-bot"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=CRaLFa&repo=nikkei-bot&theme=github_dark" /><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=CRaLFa&repo=nikkei-bot" width=420 /></picture></a>
 
-<a href="https://github.com/CRaLFa/pr-times-bot"><img src="https://gh-card.dev/repos/CRaLFa/pr-times-bot.svg" width=420></a>
+<a href="https://github.com/CRaLFa/pr-times-bot"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=CRaLFa&repo=pr-times-bot&theme=github_dark" /><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=CRaLFa&repo=pr-times-bot" width=420 /></picture></a>
 
 ## <img src="icons/vim-plain.svg" width=19 /> Vim plugins
 
-<a href="https://github.com/CRaLFa/vim9-img-search"><img src="https://gh-card.dev/repos/CRaLFa/vim9-img-search.svg" width=420></a>
-<a href="https://github.com/CRaLFa/vim-img-search"><img src="https://gh-card.dev/repos/CRaLFa/vim-img-search.svg" width=420></a>
+<a href="https://github.com/CRaLFa/vim9-img-search"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=CRaLFa&repo=vim9-img-search&theme=github_dark" /><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=CRaLFa&repo=vim9-img-search" width=420 /></picture></a>
+<a href="https://github.com/CRaLFa/vim-img-search"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=CRaLFa&repo=vim-img-search&theme=github_dark" /><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=CRaLFa&repo=vim-img-search" width=420 /></picture></a>
 
 ## <img src="icons/wasm-original.svg" width=19 /> WebAssembly
 
-<a href="https://github.com/CRaLFa/wasm-WebGL"><img src="https://gh-card.dev/repos/CRaLFa/wasm-WebGL.svg" width=420></a>
+<a href="https://github.com/CRaLFa/wasm-WebGL"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=CRaLFa&repo=wasm-WebGL&theme=github_dark" /><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=CRaLFa&repo=wasm-WebGL" width=420 /></picture></a>
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="icons/terminal-16-dark.svg" /><img src="icons/terminal-16.svg" width=19 /></picture> CLI
 
-<a href="https://github.com/CRaLFa/bash-scripts"><img src="https://gh-card.dev/repos/CRaLFa/bash-scripts.svg" width=420></a>
-<a href="https://github.com/CRaLFa/pwsh-scripts"><img src="https://gh-card.dev/repos/CRaLFa/pwsh-scripts.svg" width=420></a>
+<a href="https://github.com/CRaLFa/bash-scripts"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=CRaLFa&repo=bash-scripts&theme=github_dark" /><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=CRaLFa&repo=bash-scripts" width=420 /></picture></a>
+<a href="https://github.com/CRaLFa/pwsh-scripts"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=CRaLFa&repo=pwsh-scripts&theme=github_dark" /><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=CRaLFa&repo=pwsh-scripts" width=420 /></picture></a>
 
-<a href="https://github.com/CRaLFa/dict"><img src="https://gh-card.dev/repos/CRaLFa/dict.svg" width=420></a>
-<a href="https://github.com/CRaLFa/comchat"><img src="https://gh-card.dev/repos/CRaLFa/comchat.svg" width=420></a>
+<a href="https://github.com/CRaLFa/dict"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=CRaLFa&repo=dict&theme=github_dark" /><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=CRaLFa&repo=dict" width=420 /></picture></a>
+<a href="https://github.com/CRaLFa/comchat"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=CRaLFa&repo=comchat&theme=github_dark" /><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=CRaLFa&repo=comchat" width=420 /></picture></a>
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="icons/package-16-dark.svg" /><img src="icons/package-16.svg" width=19 /></picture> Others
 
-<a href="https://github.com/CRaLFa/ranaIntroPanel"><img src="https://gh-card.dev/repos/CRaLFa/ranaIntroPanel.svg" width=420></a>
-<a href="https://github.com/CRaLFa/md-parser"><img src="https://gh-card.dev/repos/CRaLFa/md-parser.svg" width=420></a>
+<a href="https://github.com/CRaLFa/ranaIntroPanel"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=CRaLFa&repo=ranaIntroPanel&theme=github_dark" /><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=CRaLFa&repo=ranaIntroPanel" width=420 /></picture></a>
+<a href="https://github.com/CRaLFa/md-parser"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=CRaLFa&repo=md-parser&theme=github_dark" /><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=CRaLFa&repo=md-parser" width=420 /></picture></a>
 
-<a href="https://github.com/CRaLFa/dotfiles"><img src="https://gh-card.dev/repos/CRaLFa/dotfiles.svg" width=420></a>
+<a href="https://github.com/CRaLFa/dotfiles"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=CRaLFa&repo=dotfiles&theme=github_dark" /><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=CRaLFa&repo=dotfiles" width=420 /></picture></a>
 
 ### Language
 [![My Skills](https://skillicons.dev/icons?i=go,typescript,javascript,python,rust,bash,powershell&perline=7)](https://skillicons.dev)
