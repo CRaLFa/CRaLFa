@@ -57,14 +57,12 @@ I love [Go](https://go.dev/), [TypeScript](https://www.typescriptlang.org/) and 
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wasm/wasm-original.svg" width=19 /> WebAssembly
 
 <a href="https://github.com/CRaLFa/wasm-WebGL"><img src="https://gh-card.dev/repos/CRaLFa/wasm-WebGL.svg" width=420></a>
-<a href="https://github.com/CRaLFa/wasm-vanilla-hello"><img src="https://gh-card.dev/repos/CRaLFa/wasm-vanilla-hello.svg" width=420></a>
 
 ## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/package-16.svg" width=19 /> Others
 
 <a href="https://github.com/CRaLFa/ranaIntroPanel"><img src="https://gh-card.dev/repos/CRaLFa/ranaIntroPanel.svg" width=420></a>
 <a href="https://github.com/CRaLFa/md-parser"><img src="https://gh-card.dev/repos/CRaLFa/md-parser.svg" width=420></a>
 
-<a href="https://github.com/CRaLFa/skills"><img src="https://gh-card.dev/repos/CRaLFa/skills.svg" width=420></a>
 <a href="https://github.com/CRaLFa/dotfiles"><img src="https://gh-card.dev/repos/CRaLFa/dotfiles.svg" width=420></a>
 
 ### Language
