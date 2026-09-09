@@ -41,14 +41,6 @@ I love [Go](https://go.dev/), [TypeScript](https://www.typescriptlang.org/) and 
 
 <a href="https://github.com/CRaLFa/pr-times-bot"><img src="https://gh-card.dev/repos/CRaLFa/pr-times-bot.svg" width=420></a>
 
-## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/terminal-16.svg" width=19 /> CLI
-
-<a href="https://github.com/CRaLFa/bash-scripts"><img src="https://gh-card.dev/repos/CRaLFa/bash-scripts.svg" width=420></a>
-<a href="https://github.com/CRaLFa/pwsh-scripts"><img src="https://gh-card.dev/repos/CRaLFa/pwsh-scripts.svg" width=420></a>
-
-<a href="https://github.com/CRaLFa/dict"><img src="https://gh-card.dev/repos/CRaLFa/dict.svg" width=420></a>
-<a href="https://github.com/CRaLFa/comchat"><img src="https://gh-card.dev/repos/CRaLFa/comchat.svg" width=420></a>
-
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg" width=19 /> Vim plugins
 
 <a href="https://github.com/CRaLFa/vim9-img-search"><img src="https://gh-card.dev/repos/CRaLFa/vim9-img-search.svg" width=420></a>
@@ -57,6 +49,14 @@ I love [Go](https://go.dev/), [TypeScript](https://www.typescriptlang.org/) and 
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wasm/wasm-original.svg" width=19 /> WebAssembly
 
 <a href="https://github.com/CRaLFa/wasm-WebGL"><img src="https://gh-card.dev/repos/CRaLFa/wasm-WebGL.svg" width=420></a>
+
+## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/terminal-16.svg" width=19 /> CLI
+
+<a href="https://github.com/CRaLFa/bash-scripts"><img src="https://gh-card.dev/repos/CRaLFa/bash-scripts.svg" width=420></a>
+<a href="https://github.com/CRaLFa/pwsh-scripts"><img src="https://gh-card.dev/repos/CRaLFa/pwsh-scripts.svg" width=420></a>
+
+<a href="https://github.com/CRaLFa/dict"><img src="https://gh-card.dev/repos/CRaLFa/dict.svg" width=420></a>
+<a href="https://github.com/CRaLFa/comchat"><img src="https://gh-card.dev/repos/CRaLFa/comchat.svg" width=420></a>
 
 ## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/package-16.svg" width=19 /> Others
 
