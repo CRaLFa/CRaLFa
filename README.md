@@ -9,13 +9,11 @@ I love [Go](https://go.dev/), [TypeScript](https://www.typescriptlang.org/) and 
 - Vim plugin author (vim9-img-search)
 - WSL2 & PowerShell user
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CRaLFa&hide=html%2Ccss&layout=compact&theme=github_dark&hide_border=true&title_color=00ADD8" /><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CRaLFa&hide=html%2Ccss&layout=compact&hide_border=true&title_color=0E7490" alt="Top Langs" /></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=CRaLFa&show_icons=true&count_private=true&theme=github_dark&hide_border=true&title_color=00ADD8&icon_color=00ADD8" /><img src="https://github-readme-stats-fast.vercel.app/api?username=CRaLFa&show_icons=true&count_private=true&hide_border=true&title_color=0E7490&icon_color=0891B2" alt="CRaLFa's GitHub stats" /></picture>
-
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="icons/person-24-dark.svg" /><img src="icons/person-24.svg" width=19 alt="" /></picture> Status
 
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><picture><source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/0-profile-details.svg" /><img src="profile-summary-card-output/default/0-profile-details.svg" alt="Profile details" /></picture></a>
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><picture><source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/3-stats.svg" /><img src="profile-summary-card-output/default/3-stats.svg" alt="Stats" /></picture></a>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><picture><source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/2-most-commit-language.svg" /><img src="profile-summary-card-output/default/2-most-commit-language.svg" alt="Most commit language" /></picture></a>
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><picture><source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/4-productive-time.svg" /><img src="profile-summary-card-output/default/4-productive-time.svg" alt="Productive time" /></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=CRaLFa&hide_border=true&area=true&bg_color=0D1117&color=C9D1D9&line=00ADD8&point=58A6FF&title_color=00ADD8&area_color=00ADD8" /><img src="https://github-readme-activity-graph.vercel.app/graph?username=CRaLFa&hide_border=true&area=true&bg_color=FFFFFF&color=1F2328&line=0E7490&point=0891B2&title_color=0E7490&area_color=0E7490" alt="Contribution Activity Graph" /></picture>
