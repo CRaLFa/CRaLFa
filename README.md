@@ -1,6 +1,6 @@
 ### Hey👋, I'm CRaLFa
 
-[![GitHub Followers](https://img.shields.io/github/followers/CRaLFa?label=Follow&style=social)](https://github.com/CRaLFa)
+[![GitHub Followers](https://img.shields.io/badge/Follow-CRaLFa-white?style=social&logo=github)](https://github.com/CRaLFa)
 
 I love [Go](https://go.dev/), [TypeScript](https://www.typescriptlang.org/) and [Vim](https://www.vim.org/).
 
